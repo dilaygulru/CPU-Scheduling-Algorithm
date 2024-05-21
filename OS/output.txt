@@ -1,0 +1,126 @@
+Process P1 is queued to be assigned to CPU-2.
+Process P2 is queued to be assigned to CPU-1.
+Process P3 is queued to be assigned to CPU-2.
+Process P4 is queued to be assigned to CPU-1.
+Process P5 is queued to be assigned to CPU-2.
+Process P6 is queued to be assigned to CPU-2.
+Process P7 is queued to be assigned to CPU-1.
+Process P8 is queued to be assigned to CPU-1.
+Process P9 is queued to be assigned to CPU-1.
+Process P10 is queued to be assigned to CPU-2.
+Process P11 is queued to be assigned to CPU-1.
+Process P12 is queued to be assigned to CPU-2.
+Process P13 is queued to be assigned to CPU-2.
+Process P14 is queued to be assigned to CPU-2.
+Process P15 is queued to be assigned to CPU-2.
+Process P16 is queued to be assigned to CPU-2.
+Process P17 is queued to be assigned to CPU-1.
+Process P18 is queued to be assigned to CPU-1.
+Process P19 is queued to be assigned to CPU-2.
+Process P20 is queued to be assigned to CPU-1.
+Process P21 is queued to be assigned to CPU-2.
+Process P22 is queued to be assigned to CPU-2.
+Process P23 is queued to be assigned to CPU-2.
+Process P24 is queued to be assigned to CPU-2.
+Process P25 is queued to be assigned to CPU-2.
+Process P2 assigned to CPU-1. RAM Before: 512 MB
+Process P2 has completed execution and terminated.
+RAM After: 502 MB
+Process P4 assigned to CPU-1. RAM Before: 502 MB
+Process P4 has completed execution and terminated.
+RAM After: 492 MB
+Process P7 assigned to CPU-1. RAM Before: 492 MB
+Process P7 has completed execution and terminated.
+RAM After: 482 MB
+Process P8 assigned to CPU-1. RAM Before: 482 MB
+Process P8 has completed execution and terminated.
+RAM After: 472 MB
+Process P9 assigned to CPU-1. RAM Before: 472 MB
+Process P9 has completed execution and terminated.
+RAM After: 462 MB
+Process P11 assigned to CPU-1. RAM Before: 462 MB
+Process P11 has completed execution and terminated.
+RAM After: 452 MB
+Process P17 assigned to CPU-1. RAM Before: 452 MB
+Process P17 has completed execution and terminated.
+RAM After: 442 MB
+Process P18 assigned to CPU-1. RAM Before: 442 MB
+Process P18 has completed execution and terminated.
+RAM After: 432 MB
+Process P20 assigned to CPU-1. RAM Before: 432 MB
+Process P20 has completed execution and terminated.
+RAM After: 422 MB
+Process P1 assigned to CPU-2. RAM Before: 422 MB
+Process P1 has completed execution and terminated.
+RAM After: 412 MB
+Process P25 assigned to CPU-2. RAM Before: 412 MB
+Process P25 has completed execution and terminated.
+RAM After: 402 MB
+Process P15 assigned to CPU-2. RAM Before: 402 MB
+Process P15 has completed execution and terminated.
+RAM After: 392 MB
+Process P14 assigned to CPU-2. RAM Before: 392 MB
+Process P14 has completed execution and terminated.
+RAM After: 382 MB
+Process P5 assigned to CPU-2. Starting execution using 382 MB of RAM.
+Process P5 has completed execution and terminated.
+RAM After: 372 MB
+Process P6 assigned to CPU-2. Starting execution using 372 MB of RAM.
+Process P6 has completed execution and terminated.
+RAM After: 362 MB
+Process P10 assigned to CPU-2. Starting execution using 362 MB of RAM.
+Process P10 is queued to be assigned to CPU-2 again.
+Process P19 assigned to CPU-2. Starting execution using 362 MB of RAM.
+Process P19 is queued to be assigned to CPU-2 again.
+Process P23 assigned to CPU-2. Starting execution using 362 MB of RAM.
+Process P23 has completed execution and terminated.
+RAM After: 352 MB
+Process P10 assigned to CPU-2. Starting execution using 352 MB of RAM.
+Process P10 is queued to be assigned to CPU-2 again.
+Process P19 assigned to CPU-2. Starting execution using 352 MB of RAM.
+Process P19 is queued to be assigned to CPU-2 again.
+Process P10 assigned to CPU-2. Starting execution using 352 MB of RAM.
+Process P10 is queued to be assigned to CPU-2 again.
+Process P19 assigned to CPU-2. Starting execution using 352 MB of RAM.
+Process P19 is queued to be assigned to CPU-2 again.
+Process P10 assigned to CPU-2. Starting execution using 352 MB of RAM.
+Process P10 is queued to be assigned to CPU-2 again.
+Process P19 assigned to CPU-2. Starting execution using 352 MB of RAM.
+Process P19 has completed execution and terminated.
+RAM After: 342 MB
+Process P10 assigned to CPU-2. Starting execution using 342 MB of RAM.
+Process P10 is queued to be assigned to CPU-2 again.
+Process P10 assigned to CPU-2. Starting execution using 342 MB of RAM.
+Process P10 has completed execution and terminated.
+RAM After: 332 MB
+Process P3 assigned to CPU-2. Starting execution using 332 MB of RAM.
+Process P3 is queued to be assigned to CPU-2 again.
+Process P12 assigned to CPU-2. Starting execution using 332 MB of RAM.
+Process P12 is queued to be assigned to CPU-2 again.
+Process P13 assigned to CPU-2. Starting execution using 332 MB of RAM.
+Process P13 has completed execution and terminated.
+RAM After: 322 MB
+Process P16 assigned to CPU-2. Starting execution using 322 MB of RAM.
+Process P16 has completed execution and terminated.
+RAM After: 312 MB
+Process P21 assigned to CPU-2. Starting execution using 312 MB of RAM.
+Process P21 has completed execution and terminated.
+RAM After: 302 MB
+Process P22 assigned to CPU-2. Starting execution using 302 MB of RAM.
+Process P22 is queued to be assigned to CPU-2 again.
+Process P24 assigned to CPU-2. Starting execution using 302 MB of RAM.
+Process P24 has completed execution and terminated.
+RAM After: 292 MB
+Process P3 assigned to CPU-2. Starting execution using 292 MB of RAM.
+Process P3 is queued to be assigned to CPU-2 again.
+Process P12 assigned to CPU-2. Starting execution using 292 MB of RAM.
+Process P12 has completed execution and terminated.
+RAM After: 282 MB
+Process P22 assigned to CPU-2. Starting execution using 282 MB of RAM.
+Process P22 has completed execution and terminated.
+RAM After: 272 MB
+Process P3 assigned to CPU-2. Starting execution using 272 MB of RAM.
+Process P3 is queued to be assigned to CPU-2 again.
+Process P3 assigned to CPU-2. Starting execution using 272 MB of RAM.
+Process P3 has completed execution and terminated.
+RAM After: 262 MB
